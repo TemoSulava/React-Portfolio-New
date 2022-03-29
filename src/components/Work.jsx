@@ -2,6 +2,8 @@ import React from 'react'
 import WorkImg from '../assets/workImg.jpeg'
 import realEstate from '../assets/realestate.jpg'
 
+
+//TODO: Add actual projects from my repository instead of the dummy data
 const Work = () => {
     return (
         <div
